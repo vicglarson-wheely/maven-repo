@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.facebook.android</groupId>
 	<artifactId>facebook-android-library</artifactId>
-	<packaging>apklib</packaging>
+	<packaging>apk</packaging>
 	<name>Android-Facebook Library</name>
 
 	<dependencies>

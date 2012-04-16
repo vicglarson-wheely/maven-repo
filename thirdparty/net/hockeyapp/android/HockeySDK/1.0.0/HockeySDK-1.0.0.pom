@@ -10,7 +10,7 @@
   <groupId>net.hockeyapp.android</groupId>
   <artifactId>HockeySDK</artifactId>
   <version>1.0.0</version>
-  <packaging>apklib</packaging>
+  <packaging>apk</packaging>
   <name>HockeySDK</name>
 
   <dependencies>
