@@ -3,10 +3,10 @@
   <groupId>urbanairship</groupId>
   <artifactId>urbanairship-lib</artifactId>
   <versioning>
-    <release>1.0.1</release>
+    <release>1.1.3</release>
     <versions>
-      <version>1.0.1</version>
+      <version>1.1.3</version>
     </versions>
-    <lastUpdated>20120406143039</lastUpdated>
+    <lastUpdated>20120604080952</lastUpdated>
   </versioning>
 </metadata>
